@@ -37,6 +37,12 @@ https://github.com/StarT-Dev-Team/Star-Technology
 https://github.com/StarT-Dev-Team/StarT-Core
 ```
 
+Актуальная версия переводов на русский язык находится тут (можно брать отсюда и видеть все актуальные изменения)
+
+```
+https://github.com/drnkwtr/StarT-Translations-ru
+```
+
 5. В поле **Branch**:
 
 * оставьте пустым, чтобы использовать ветку `main`;
